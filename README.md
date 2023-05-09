@@ -1,0 +1,2 @@
+# NodosPropiedad_Graficas
+ejercicio
